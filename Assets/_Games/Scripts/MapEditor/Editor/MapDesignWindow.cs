@@ -2,6 +2,7 @@
 using System.IO;
 using Sirenix.OdinInspector;
 using Sirenix.OdinInspector.Editor;
+using Unity.Plastic.Newtonsoft.Json;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Serialization;
@@ -38,7 +39,11 @@ namespace GamePlayFoundation.MapEditor
             }
             levelData.BakedCells = bakedData;
             EditorUtility.SetDirty(levelData);
-            SaveLevel(levelData.name, JsonUtility.ToJson(levelData));
+            var settings = new JsonSerializerSettings
+            {
+                ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+            };
+            SaveLevel(levelData.name, JsonConvert.SerializeObject(levelData, settings));
         }
         
         public static string GetLevelFolder()
