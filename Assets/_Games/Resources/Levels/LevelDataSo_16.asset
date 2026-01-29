@@ -21,7 +21,7 @@ MonoBehaviour:
     y: 2
     cellType: 0
     layers:
-    - hasFrozen: 1
+    - hasFrozen: 0
       frozenCounter: 5
       hasHidden: 0
       tileTileID: 6
@@ -93,7 +93,7 @@ MonoBehaviour:
     y: 2
     cellType: 0
     layers:
-    - hasFrozen: 1
+    - hasFrozen: 0
       frozenCounter: 4
       hasHidden: 0
       tileTileID: 7
