@@ -12,27 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eab0724193001509d16de2c784e47936, type: 3}
   m_Name: LevelDataSo_1
   m_EditorClassIdentifier: 
-  <Rows>k__BackingField: 4
+  <Rows>k__BackingField: 3
   <Cols>k__BackingField: 4
   <CellWidth>k__BackingField: 1
   <CellHeight>k__BackingField: 1.3
   <BakedCells>k__BackingField:
   - x: 0
-    y: 3
-    cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 4
-  - x: 0
     y: 2
     cellType: 0
     layers:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 5
+      tileTileID: 14
   - x: 0
     y: 1
     cellType: 0
@@ -40,19 +32,15 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 7
+      tileTileID: 19
   - x: 0
     y: 0
     cellType: 0
-    layers: []
-  - x: 1
-    y: 3
-    cellType: 0
     layers:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 6
+      tileTileID: 19
   - x: 1
     y: 2
     cellType: 0
@@ -60,7 +48,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 3
+      tileTileID: 14
   - x: 1
     y: 1
     cellType: 0
@@ -68,19 +56,15 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 7
+      tileTileID: 12
   - x: 1
     y: 0
     cellType: 0
-    layers: []
-  - x: 2
-    y: 3
-    cellType: 0
     layers:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 6
+      tileTileID: 13
   - x: 2
     y: 2
     cellType: 0
@@ -88,7 +72,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 3
+      tileTileID: 15
   - x: 2
     y: 1
     cellType: 0
@@ -96,19 +80,15 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 1
+      tileTileID: 12
   - x: 2
     y: 0
-    cellType: 0
-    layers: []
-  - x: 3
-    y: 3
     cellType: 0
     layers:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 2
+      tileTileID: 13
   - x: 3
     y: 2
     cellType: 0
@@ -116,7 +96,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 2
+      tileTileID: 15
   - x: 3
     y: 1
     cellType: 0
@@ -124,11 +104,15 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 1
+      tileTileID: 11
   - x: 3
     y: 0
     cellType: 0
-    layers: []
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 11
   <BakedTutorial>k__BackingField:
   - Message: Tap to Match Adjacent Tiles with Matching Stickers
     Delay: 0
@@ -275,7 +259,7 @@ MonoBehaviour:
   <Camera>k__BackingField:
     <CameraPosition>k__BackingField: {x: 0, y: 0, z: 0}
     <CameraRotation>k__BackingField: {x: 0, y: 0, z: 0}
-    <CameraFOV>k__BackingField: 4
+    <CameraFOV>k__BackingField: 3.5
   <Level>k__BackingField:
     <IsBossLevel>k__BackingField: 0
     <IsHardLevel>k__BackingField: 0
