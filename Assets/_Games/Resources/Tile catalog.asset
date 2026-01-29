@@ -13,11 +13,6 @@ MonoBehaviour:
   m_Name: Tile catalog
   m_EditorClassIdentifier: Assembly-CSharp::GamePlayFoundation.Entities.Tile.TileCatalog
   sprites:
-  - {fileID: 21300000, guid: 95c97a34797f5bd4ab3f4c336dc7e51e, type: 3}
-  - {fileID: 21300000, guid: 56c07272c203de946a45ef6592c6af10, type: 3}
-  - {fileID: 21300000, guid: e25e406e3b035944c89798c244664dc2, type: 3}
-  - {fileID: 21300000, guid: cccca280c71f9844baa03c7645684dab, type: 3}
-  - {fileID: 21300000, guid: e72fe66d239934a429d6dcdb3662321f, type: 3}
   - {fileID: 21300000, guid: 916c6c66f13fc414bb559a5748c51bf3, type: 3}
   - {fileID: 21300000, guid: 8d449d02a973a49408a49d8def160373, type: 3}
   - {fileID: 21300000, guid: 8e7af0e6ee731d8478bcf17946ae8ad7, type: 3}
@@ -53,3 +48,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 11e2c6fc527414442a4b70f04fd9e0d3, type: 3}
   - {fileID: 21300000, guid: b44f8e5c6022397469490d65da39cce5, type: 3}
   - {fileID: 21300000, guid: 78dcb5dd3a67bc04b8ed970eb03ef016, type: 3}
+  - {fileID: 21300000, guid: 95c97a34797f5bd4ab3f4c336dc7e51e, type: 3}
+  - {fileID: 21300000, guid: 56c07272c203de946a45ef6592c6af10, type: 3}
+  - {fileID: 21300000, guid: e25e406e3b035944c89798c244664dc2, type: 3}
+  - {fileID: 21300000, guid: cccca280c71f9844baa03c7645684dab, type: 3}
+  - {fileID: 21300000, guid: e72fe66d239934a429d6dcdb3662321f, type: 3}
