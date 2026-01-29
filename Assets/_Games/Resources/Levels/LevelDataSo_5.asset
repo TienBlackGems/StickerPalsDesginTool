@@ -229,7 +229,7 @@ MonoBehaviour:
   <Camera>k__BackingField:
     <CameraPosition>k__BackingField: {x: 0, y: 0, z: 0}
     <CameraRotation>k__BackingField: {x: 0, y: 0, z: 0}
-    <CameraFOV>k__BackingField: 5
+    <CameraFOV>k__BackingField: 4
   <Level>k__BackingField:
     <IsBossLevel>k__BackingField: 0
     <IsHardLevel>k__BackingField: 0
