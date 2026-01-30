@@ -24,80 +24,8 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 3
+      tileTileID: 1
   - x: 0
-    y: 3
-    cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 4
-  - x: 0
-    y: 2
-    cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 8
-  - x: 0
-    y: 1
-    cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 6
-  - x: 0
-    y: 0
-    cellType: 0
-    layers: []
-  - x: 1
-    y: 4
-    cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 7
-  - x: 1
-    y: 3
-    cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 9
-  - x: 1
-    y: 2
-    cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 6
-  - x: 1
-    y: 1
-    cellType: 0
-    layers: []
-  - x: 1
-    y: 0
-    cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 2
-  - x: 2
-    y: 4
-    cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 8
-  - x: 2
     y: 3
     cellType: 0
     layers:
@@ -105,6 +33,86 @@ MonoBehaviour:
       frozenCounter: 0
       hasHidden: 0
       tileTileID: 3
+  - x: 0
+    y: 2
+    cellType: 0
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 1
+  - x: 0
+    y: 1
+    cellType: 0
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 8
+  - x: 0
+    y: 0
+    cellType: 0
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 2
+  - x: 1
+    y: 4
+    cellType: 0
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 3
+  - x: 1
+    y: 3
+    cellType: 0
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 4
+  - x: 1
+    y: 2
+    cellType: 0
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 0
+  - x: 1
+    y: 1
+    cellType: 0
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 6
+  - x: 1
+    y: 0
+    cellType: 0
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 9
+  - x: 2
+    y: 4
+    cellType: 0
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 7
+  - x: 2
+    y: 3
+    cellType: 0
+    layers:
+    - hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      tileTileID: 9
   - x: 2
     y: 2
     cellType: 0
@@ -112,7 +120,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 7
+      tileTileID: 6
   - x: 2
     y: 1
     cellType: 0
@@ -128,15 +136,11 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 0
+      tileTileID: 8
   - x: 3
     y: 4
     cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 1
+    layers: []
   - x: 3
     y: 3
     cellType: 0
@@ -144,7 +148,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 9
+      tileTileID: 2
   - x: 3
     y: 2
     cellType: 0
@@ -152,15 +156,11 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 1
+      tileTileID: 7
   - x: 3
     y: 1
     cellType: 0
-    layers:
-    - hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      tileTileID: 0
+    layers: []
   - x: 3
     y: 0
     cellType: 0
@@ -168,7 +168,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 2
+      tileTileID: 0
   <BakedTutorial>k__BackingField:
   - Message: Tiles can Push other Tiles!
     Delay: 0
