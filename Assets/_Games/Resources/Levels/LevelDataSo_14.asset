@@ -32,7 +32,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 8
+      tileTileID: 48
   - x: 0
     y: 5
     cellType: 0
@@ -48,7 +48,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 1
+      tileTileID: 41
   - x: 0
     y: 3
     cellType: 0
@@ -64,7 +64,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 8
+      tileTileID: 48
   - x: 0
     y: 1
     cellType: 0
@@ -84,7 +84,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 7
+      tileTileID: 47
   - x: 1
     y: 6
     cellType: 0
@@ -100,7 +100,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 5
+      tileTileID: 45
   - x: 1
     y: 4
     cellType: 0
@@ -108,7 +108,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 1
-      tileTileID: 9
+      tileTileID: 49
   - x: 1
     y: 3
     cellType: 0
@@ -116,7 +116,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 5
+      tileTileID: 45
   - x: 1
     y: 2
     cellType: 0
@@ -124,7 +124,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 0
+      tileTileID: 40
   - x: 1
     y: 1
     cellType: 0
@@ -132,7 +132,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 1
-      tileTileID: 4
+      tileTileID: 44
   - x: 1
     y: 0
     cellType: 0
@@ -144,7 +144,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 6
+      tileTileID: 46
   - x: 2
     y: 7
     cellType: 0
@@ -184,7 +184,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 4
+      tileTileID: 44
   - x: 2
     y: 2
     cellType: 0
@@ -200,7 +200,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 1
+      tileTileID: 41
   - x: 2
     y: 0
     cellType: 0
@@ -208,7 +208,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 1
+      tileTileID: 41
   - x: 3
     y: 8
     cellType: 0
@@ -264,7 +264,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 3
+      tileTileID: 43
   - x: 3
     y: 1
     cellType: 0
@@ -272,7 +272,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 6
+      tileTileID: 46
   - x: 3
     y: 0
     cellType: 0
@@ -280,7 +280,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 0
+      tileTileID: 40
   - x: 4
     y: 8
     cellType: 0
@@ -292,7 +292,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 1
-      tileTileID: 2
+      tileTileID: 42
   - x: 4
     y: 6
     cellType: 0
@@ -308,7 +308,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 1
+      tileTileID: 41
   - x: 4
     y: 4
     cellType: 0
@@ -316,7 +316,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 1
-      tileTileID: 8
+      tileTileID: 48
   - x: 4
     y: 3
     cellType: 0
@@ -324,7 +324,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 9
+      tileTileID: 49
   - x: 4
     y: 2
     cellType: 0
@@ -340,7 +340,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 7
+      tileTileID: 47
   - x: 4
     y: 0
     cellType: 0
@@ -368,7 +368,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 1
-      tileTileID: 8
+      tileTileID: 48
   - x: 5
     y: 4
     cellType: 0
@@ -384,7 +384,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 2
+      tileTileID: 42
   - x: 5
     y: 2
     cellType: 0
@@ -392,7 +392,7 @@ MonoBehaviour:
     - hasFrozen: 0
       frozenCounter: 0
       hasHidden: 0
-      tileTileID: 3
+      tileTileID: 43
   - x: 5
     y: 1
     cellType: 0
