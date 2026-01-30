@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eab0724193001509d16de2c784e47936, type: 3}
-  m_Name: LevelDataSo_40
+  m_Name: LevelDataSo_60
   m_EditorClassIdentifier: 
-  <Rows>k__BackingField: 6
-  <Cols>k__BackingField: 6
+  <Rows>k__BackingField: 9
+  <Cols>k__BackingField: 8
   <CellWidth>k__BackingField: 1
   <CellHeight>k__BackingField: 1.3
   <BakedCells>k__BackingField:
@@ -38,7 +38,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 2
+      tileTileID: 4
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -63,7 +63,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 4
+      tileTileID: 16
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -113,28 +113,10 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 14
+      tileTileID: 12
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
-    - layerType: 0
-      gridObjectType: 1
-      layerIndex: 1
-      tileTileShapes: 0
-      tileTileShapesCells: []
-      tileCellFeature: 0
-      hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      hiddenCounter: 0
-      hasKey: 0
-      keyKeyLockColor: 0
-      tileTileID: 0
-      lockLockShape: 1
-      lockLockShapeCells:
-      - {x: 0, y: 0}
-      - {x: 1, y: 0}
-      lockKeyLockColor: 2
   - x: 0
     y: 4
     cellType: 0
@@ -156,7 +138,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 8
+      tileTileID: 3
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -166,6 +148,81 @@ MonoBehaviour:
     multiCellGroupId: -1
     isMultiCellPivot: 0
     groupPivot: {x: 0, y: 5}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 2
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 0
+    y: 6
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 0, y: 6}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 10
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 0
+    y: 7
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 0, y: 7}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 16
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 0
+    y: 8
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 0, y: 8}
     connectionId: -1
     layers:
     - layerType: 1
@@ -206,7 +263,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 6
+      tileTileID: 8
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -231,7 +288,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 12
+      tileTileID: 5
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -256,7 +313,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 3
+      tileTileID: 11
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -281,7 +338,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 1
+      tileTileID: 3
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -306,7 +363,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 8
+      tileTileID: 5
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -331,7 +388,82 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 14
+      tileTileID: 9
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 1
+    y: 6
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 1, y: 6}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 5
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 1
+    y: 7
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 1, y: 7}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 6
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 1
+    y: 8
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 1, y: 8}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 7
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -356,7 +488,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 11
+      tileTileID: 4
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -381,7 +513,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 13
+      tileTileID: 15
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -392,7 +524,24 @@ MonoBehaviour:
     isMultiCellPivot: 0
     groupPivot: {x: 2, y: 2}
     connectionId: -1
-    layers: []
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 17
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
   - x: 2
     y: 3
     cellType: 0
@@ -400,7 +549,24 @@ MonoBehaviour:
     isMultiCellPivot: 0
     groupPivot: {x: 2, y: 3}
     connectionId: -1
-    layers: []
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 16
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
   - x: 2
     y: 4
     cellType: 0
@@ -420,9 +586,9 @@ MonoBehaviour:
       frozenCounter: 0
       hasHidden: 0
       hiddenCounter: 0
-      hasKey: 1
-      keyKeyLockColor: 3
-      tileTileID: 5
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 9
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -447,7 +613,82 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 10
+      tileTileID: 12
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 2
+    y: 6
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 2, y: 6}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 1
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 2
+    y: 7
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 2, y: 7}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 18
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 2
+    y: 8
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 2, y: 8}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 15
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -472,7 +713,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 3
+      tileTileID: 7
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -497,7 +738,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 16
+      tileTileID: 13
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -508,7 +749,24 @@ MonoBehaviour:
     isMultiCellPivot: 0
     groupPivot: {x: 3, y: 2}
     connectionId: -1
-    layers: []
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 8
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
   - x: 3
     y: 3
     cellType: 0
@@ -516,7 +774,24 @@ MonoBehaviour:
     isMultiCellPivot: 0
     groupPivot: {x: 3, y: 3}
     connectionId: -1
-    layers: []
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 15
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
   - x: 3
     y: 4
     cellType: 0
@@ -538,7 +813,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 7
+      tileTileID: 1
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -563,7 +838,82 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 6
+      tileTileID: 2
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 3
+    y: 6
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 3, y: 6}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 14
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 3
+    y: 7
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 3, y: 7}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 15
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 3
+    y: 8
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 3, y: 8}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 7
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -586,9 +936,9 @@ MonoBehaviour:
       frozenCounter: 0
       hasHidden: 0
       hiddenCounter: 0
-      hasKey: 1
-      keyKeyLockColor: 2
-      tileTileID: 15
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 10
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -611,9 +961,9 @@ MonoBehaviour:
       frozenCounter: 0
       hasHidden: 0
       hiddenCounter: 0
-      hasKey: 1
-      keyKeyLockColor: 3
-      tileTileID: 5
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 3
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -638,28 +988,10 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 10
+      tileTileID: 6
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
-    - layerType: 0
-      gridObjectType: 1
-      layerIndex: 1
-      tileTileShapes: 0
-      tileTileShapesCells: []
-      tileCellFeature: 0
-      hasFrozen: 0
-      frozenCounter: 0
-      hasHidden: 0
-      hiddenCounter: 0
-      hasKey: 0
-      keyKeyLockColor: 0
-      tileTileID: 0
-      lockLockShape: 1
-      lockLockShapeCells:
-      - {x: 0, y: 0}
-      - {x: 1, y: 0}
-      lockKeyLockColor: 3
   - x: 4
     y: 3
     cellType: 0
@@ -681,7 +1013,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 16
+      tileTileID: 1
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -706,7 +1038,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 13
+      tileTileID: 4
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -731,7 +1063,82 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 2
+      tileTileID: 6
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 4
+    y: 6
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 4, y: 6}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 11
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 4
+    y: 7
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 4, y: 7}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 17
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 4
+    y: 8
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 4, y: 8}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 8
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -756,7 +1163,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 9
+      tileTileID: 17
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -781,7 +1188,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 1
+      tileTileID: 13
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -804,9 +1211,9 @@ MonoBehaviour:
       frozenCounter: 0
       hasHidden: 0
       hiddenCounter: 0
-      hasKey: 1
-      keyKeyLockColor: 2
-      tileTileID: 15
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 18
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -831,7 +1238,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 4
+      tileTileID: 17
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -856,7 +1263,7 @@ MonoBehaviour:
       hiddenCounter: 0
       hasKey: 0
       keyKeyLockColor: 0
-      tileTileID: 7
+      tileTileID: 10
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
@@ -885,6 +1292,531 @@ MonoBehaviour:
       lockLockShape: 0
       lockLockShapeCells: []
       lockKeyLockColor: 0
+  - x: 5
+    y: 6
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 5, y: 6}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 6
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 5
+    y: 7
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 5, y: 7}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 10
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 5
+    y: 8
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 5, y: 8}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 13
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 6
+    y: 0
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 6, y: 0}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 1
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 6
+    y: 1
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 6, y: 1}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 2
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 6
+    y: 2
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 6, y: 2}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 13
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 6
+    y: 3
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 6, y: 3}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 4
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 6
+    y: 4
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 6, y: 4}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 18
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 6
+    y: 5
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 6, y: 5}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 14
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 6
+    y: 6
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 6, y: 6}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 2
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 6
+    y: 7
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 6, y: 7}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 11
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 6
+    y: 8
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 6, y: 8}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 12
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 7
+    y: 0
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 7, y: 0}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 3
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 7
+    y: 1
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 7, y: 1}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 18
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 7
+    y: 2
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 7, y: 2}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 14
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 7
+    y: 3
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 7, y: 3}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 8
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 7
+    y: 4
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 7, y: 4}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 7
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 7
+    y: 5
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 7, y: 5}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 5
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 7
+    y: 6
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 7, y: 6}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 14
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 7
+    y: 7
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 7, y: 7}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 9
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
+  - x: 7
+    y: 8
+    cellType: 0
+    multiCellGroupId: -1
+    isMultiCellPivot: 0
+    groupPivot: {x: 7, y: 8}
+    connectionId: -1
+    layers:
+    - layerType: 1
+      gridObjectType: 0
+      layerIndex: 0
+      tileTileShapes: 0
+      tileTileShapesCells:
+      - {x: 0, y: 0}
+      tileCellFeature: 0
+      hasFrozen: 0
+      frozenCounter: 0
+      hasHidden: 0
+      hiddenCounter: 0
+      hasKey: 0
+      keyKeyLockColor: 0
+      tileTileID: 16
+      lockLockShape: 0
+      lockLockShapeCells: []
+      lockKeyLockColor: 0
   <BakedTutorial>k__BackingField: []
   <IsBaked>k__BackingField: 1
   <Camera>k__BackingField:
@@ -893,7 +1825,7 @@ MonoBehaviour:
     <CameraFOV>k__BackingField: 0
   <Level>k__BackingField:
     <IsBossLevel>k__BackingField: 0
-    <IsHardLevel>k__BackingField: 0
+    <IsHardLevel>k__BackingField: 1
     <CanBeRandomlySelected>k__BackingField: 1
   <Economy>k__BackingField:
     <CurrencyReward>k__BackingField: 0
@@ -902,7 +1834,7 @@ MonoBehaviour:
     <ReviveCosts>k__BackingField: 
   <Game>k__BackingField:
     <HasTimer>k__BackingField: 1
-    <TimerDuration>k__BackingField: 200
+    <TimerDuration>k__BackingField: 180
     <HasHelper>k__BackingField: 0
   <Theme>k__BackingField:
     <ThemeMode>k__BackingField: 0
